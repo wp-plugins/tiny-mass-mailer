@@ -1,0 +1,288 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: tiny-mass-mailer\n"
+"POT-Creation-Date: 2015-07-13 14:56+0330\n"
+"PO-Revision-Date: 2015-07-13 15:26+0330\n"
+"Last-Translator: wp-master.ir <wp@wp-master.ir>\n"
+"Language-Team: wp-master.ir <wp@wp-master.ir>\n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.1\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-KeywordsList: _;_e;__;_x\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: class-options.php:35
+msgid "Tiny Mass Mailer"
+msgstr "میلر ریز"
+
+#: class-options.php:36 class-options.php:148
+msgid "Sends"
+msgstr "ارسال ها"
+
+#: class-options.php:37
+msgid "Urls"
+msgstr "لینکها"
+
+#: class-options.php:38
+msgid "Help"
+msgstr "راهنما"
+
+#: class-options.php:58
+msgid "tiny-mass-mailer Options"
+msgstr "تنظیمات میلر ریز"
+
+#: class-options.php:61
+msgid "Updated"
+msgstr "تنظیمات به روز شدند"
+
+#: class-options.php:67
+msgid "Admin Mail"
+msgstr "ایمیل مدیریت"
+
+#: class-options.php:71
+msgid "From Name"
+msgstr "نام فرستنده"
+
+#: class-options.php:75
+msgid "From Mail"
+msgstr "ایمیل فرستنده"
+
+#: class-options.php:79
+msgid "Reply To"
+msgstr "پاسخ به"
+
+#: class-options.php:84
+msgid "SMTP Count"
+msgstr "تعداد اکانتهای SMTP"
+
+#: class-options.php:132
+msgid "Save"
+msgstr "ذخیره"
+
+#: class-options.php:149
+msgid "New Send"
+msgstr "ارسال جدید"
+
+#: class-options.php:154
+msgid "Sending mail"
+msgstr "ارسال ایمیل"
+
+#: class-options.php:155
+msgid "Subject"
+msgstr "موضوع ایمیل"
+
+#: class-options.php:157
+msgid "Start From This User ID"
+msgstr "شروع ارسال از ID این کاربر باشد"
+
+#: class-options.php:160
+msgid "Mail Content"
+msgstr "محتویات ایمیل"
+
+#: class-options.php:163
+msgid "Mail contect Here..."
+msgstr "محتویات ارسالی ایمیل"
+
+#: class-options.php:177
+msgid "Start Sending"
+msgstr "شروع ارسال"
+
+#: class-options.php:189
+msgid "Deleted"
+msgstr "حذف شد"
+
+#: class-options.php:200
+msgid "Canceled"
+msgstr "کنسل شد"
+
+#: class-options.php:210 index.php:193
+msgid "Send goes to queue"
+msgstr "ارسال در صف قرار گرفت"
+
+#: class-options.php:291
+msgid "Usage"
+msgstr "نحوه استفاده"
+
+#: class-options.php:294
+msgid "First in setting page Set 'SMTP Count' and Click 'Save'"
+msgstr ""
+"ابتدا در صفحه تنظیمات 'تعداد اکانتهای SMTP' را تعیین و دکمه 'ذخیره' را کلیک "
+"کنید"
+
+#: class-options.php:295
+msgid "Define SMTP's"
+msgstr "تعریف SMTP ها"
+
+#: class-options.php:296
+msgid "Set each SMTP sends limits per hour"
+msgstr "تعداد محدودیت ارسال هر SMTP در یک ساعت را ست کنید"
+
+#: class-options.php:297
+msgid "Use 'Check' Button to check SMTP connection"
+msgstr "از دکمه 'Check' برای بررسی اتصال SMTP استفاده کنید"
+
+#: class-options.php:298
+msgid ""
+"If you have any smtp that is not correct in connection Delete it or Disable,"
+"if did not it,Tiny Mass Mailer use them as correct SMTP"
+msgstr ""
+"اگر SMTPی دارید که متصل نیست آن را حذف و یا غیرفعال کنید،اگر این کار را "
+"انجام ندهید میلر ریز ار آنها در ارسال ایمیل استفاده خواهد کرد"
+
+#: class-options.php:299
+msgid "Create new send"
+msgstr "تعریف ارسال جدید"
+
+#: class-options.php:300
+msgid "And see Sends State"
+msgstr "و مشاهده وضعیت ارسال"
+
+#: class-options.php:302
+msgid "Notes"
+msgstr "نکته ها"
+
+#: class-options.php:305
+msgid "For Using Gmail You must first  Allow less secure apps at this link "
+msgstr "برای استفاده از جیمیل شما باید گزینه Alow Less Secure رو فعال کنید"
+
+#: class-options.php:306
+msgid "Tiny Mass Mailer will process just one send at time"
+msgstr "Tiny Mass Mailer در آن واحد فقط یک ارسال را پشتیبانی می کند"
+
+#: class-options.php:307
+msgid "More SMTP More send Speed"
+msgstr "هرچه SMTP بیشتر،سرعت ارسال نیز بیشتر"
+
+#: class-options.php:308
+msgid ""
+"For 100% inbox use one email and set it in 'sender' and 'reply to' field "
+"also , by this way sending goes to be slow but emails goes to inbox "
+"completely"
+msgstr ""
+"جهت جلوگیری از اسپم بصورت 100 درصد تنها از یک ایمیل استفاده کنید و در قسمت "
+"فرستنده و پاسخ به نیز همان ایمیل را وارد کنید،گرچه طول خواهد کشید اما یقینا "
+"به اینباکس خواهد رفت"
+
+#: class-options.php:310
+msgid "Sample Config"
+msgstr "تنظیمات نمونه"
+
+#: class-options.php:487
+msgid " Emails Sent Completely"
+msgstr "ایمیلها با موفقیت ارسال شدند"
+
+#: class-options.php:488
+msgid "Emails Sent Completely at: "
+msgstr "ایمیلها با موفقیت ارسال شدند،در:"
+
+#: inc/listTable.php:23 inc/listTable.php:218
+msgid "No Item Found"
+msgstr "محتوایی یافت نشد"
+
+#: inc/listTable.php:63 inc/listTable.php:244
+msgid "id"
+msgstr "ID"
+
+#: inc/listTable.php:64
+msgid "subject"
+msgstr "موضوع ایمیل"
+
+#: inc/listTable.php:65
+msgid "text"
+msgstr "متن ایمیل"
+
+#: inc/listTable.php:66
+msgid "last_sent_time"
+msgstr "آخرین دوره ارسال"
+
+#: inc/listTable.php:67
+msgid "start_date"
+msgstr "شروع ارسال"
+
+#: inc/listTable.php:68
+msgid "end_date"
+msgstr "اتمام ارسال"
+
+#: inc/listTable.php:69
+msgid "state"
+msgstr "وضعیت"
+
+#: inc/listTable.php:70
+msgid "opens"
+msgstr "بازشده ها"
+
+#: inc/listTable.php:71
+msgid "clicks"
+msgstr "کلیک ها"
+
+#: inc/listTable.php:72
+msgid "last_user_id"
+msgstr "آخرین کاربر"
+
+#: inc/listTable.php:245
+msgid "url"
+msgstr "لینک"
+
+#: inc/listTable.php:246
+msgid "hits"
+msgstr "بازدید"
+
+#: index.php:39 index.php:40
+msgid "tiny-mass-mailer"
+msgstr "میلر ریز"
+
+#: index.php:55
+msgid "Localizing was successful"
+msgstr "بومی سازی موفق بود"
+
+#: index.php:195
+msgid "Problem to Sending to queue"
+msgstr "اشکال در ارسال به صف"
+
+#~ msgid "Simple Config"
+#~ msgstr "تنظیمات نمونه"
+
+#~ msgid "SMTP CUONT"
+#~ msgstr "تعداد اکانتهای SMTP"
+
+#~ msgid ""
+#~ "If you have any smtp that is not correct in connection Delete it or "
+#~ "Disable,if did not it,tinymassmailer use them as correct SMTP"
+#~ msgstr ""
+#~ "اگر SMTP ی دارید که متصل نیست،آن را حذف و یا غیرفعال کنید،در غیر این صورت "
+#~ "Tiny Mass Mailer از آن بعنوان SMTP صحیح استفاده خواهد کرد"
+
+#~ msgid "Emails Sent Completely"
+#~ msgstr "ایمیلها با موفقیت ارسال شدند"
+
+#~ msgid "All is right!"
+#~ msgstr "همه چیز خوب است!"
+
+#~ msgid "General Settings"
+#~ msgstr "تنظیمات عمومی"
+
+#~ msgid "Appearance"
+#~ msgstr "نمایش"
+
+#~ msgid "Reset to Defaults"
+#~ msgstr "تنظیمات پیشفرض"
+
+#~ msgid "About"
+#~ msgstr "درباره"
+
+#~ msgid "Default Field"
+#~ msgstr "فیلد پیشفرض"
+
+#~ msgid "This is a default description."
+#~ msgstr "توضیحات فیلد پیشفرض"
+
+#~ msgid "tiny-mass-mailer options updated."
+#~ msgstr "تنظیمات به روز شدند"
+
+#~ msgid "Save Changes"
+#~ msgstr "ذخیره تنظیمات"
